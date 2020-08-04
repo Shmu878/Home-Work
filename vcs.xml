@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="Shmu878" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Shmu878/v2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\Shmu666\Desktop\SkillBox\java_basics\05_ArraysAndCollections" />
   </component>
 </application>
